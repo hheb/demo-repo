@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("corrr")
+install.packages("tidytex")
+install.packages("stargazer")
